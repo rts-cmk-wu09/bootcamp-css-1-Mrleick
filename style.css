@@ -22,3 +22,15 @@ p {
 ul li:last-child {
     font-weight: 900;
 }
+
+.flexbox{
+    display: flex;
+    width: 1000px;
+    justify-content: space-between;
+}
+.element{
+    
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+}
